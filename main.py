@@ -1,1 +1,1 @@
-print("Wynik potęgowania (1,01)^365 to: ", 1.01**365)
+print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
